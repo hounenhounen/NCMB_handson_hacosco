@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="c:\Users\SCI01470\Desktop\ncmb_hacoscon\Assets\Scripts\LeaderBoard\LeaderBoard.cs">
+    <Files>
+      <File FileName="c:\Users\SCI01470\Desktop\ncmb_hacoscon\Assets\Scripts\LeaderBoard\LeaderBoard.cs" Line="27" Column="53" />
+      <File FileName="Assets\Scripts\Camera\MyCameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UnityChan\CollisionDetect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UnityChan\UnityChan.cs" Line="40" Column="33" />
+      <File FileName="Assets\Scripts\UnityChan\Timer.cs" Line="69" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
